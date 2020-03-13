@@ -7,9 +7,11 @@ Mục tiêu mà chúng ta nhắm đến là giới trẻ , nhân viên văn phò
 II. khó khăn mà nhóm gặp phải
 
  + Là 1 thị trường có rất nhiều tiềm năng nên việc cạnh tranh là điều không thể tránh khỏi, có rất nhiều app đặt đồ ăn nhanh ra đời nhằm phục vụ nhu cầu xã hội, Các ông lớn đang được đông đảo người dùng biết đến là Now (tên cũ là Delivery Now), Grab Food và Go Việt.
- + Thiếu kinh ngiệp trong việc quản lý thị trường
+ + Thiếu kinh ngiệp trong việc quản lý thị trường.
+ + 
  III. Giải pháp
  
- + kế thừa từ những tinh hoa mà các hãng lớn để lại 
+ + cải thiện giao diện sao cho thân thiện với người dùng
+ + Học hỏi thêm về kinh tế thị trường
  
  
