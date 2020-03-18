@@ -10,7 +10,6 @@ II. khó khăn mà nhóm gặp phải
  + Đôi khi việc giao hàng chậm là 1 trải nghiệm xấu đếm người dùng
  
  III. Giải pháp
- 
  + cải thiện giao diện sao cho thân thiện với người dùng
  + Liên kết giữa các nhà hàng để việc chuẩn bị nhanh hơn
  
